@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+        <item>Donetsk</item>
+        <item>Kiev</item>
+        <item>Dnepropetrovsk</item>
+        <item>Lviv</item>
+        <item>Kharkiv</item>
+        <item>Moscow</item>
+        <item>Kursk</item>
+        <item>Magadan</item>
+        <item>Murmansk</item>
+        <item>Ottava</item>
+        <item>Toronto</item>
+        <item>Washington</item>
+        <item>NY</item>
+        <item>LA</item>
+        <item>San Francisco</item>
+        <item>Paris</item>
+        <item>Marsele</item>
+        <item>London</item>
+        <item>Manchester</item>
+        <item>Bern</item>
+        <item>Berlin</item>
+    </string-array>
+</resources>
